@@ -6,8 +6,8 @@ customCSS: /css/custom.css
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name
-acct: kent-map
-repo: kent
+#acct: kent-map
+#repo: kent
 ref: main
 
 ######################################################
@@ -25,9 +25,8 @@ nav:
 # The following information is used in the display and processing of the contact form.
 contactForm:
   toEmail:
-  - ron.snyder@ithaka.org
-  - carolyn.oulton@canterbury.ac.uk
-  - kent.maps@canterbury.ac.uk
+  - michelle.crowther1@canterbury.ac.uk
+
   subject: Kent Digital Map Contact
 
 #######################################################
